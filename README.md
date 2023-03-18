@@ -22,7 +22,7 @@
 <img align="left" alt="joomla" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/joomla.svg" />
 <img align="left" alt="opencart" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/OpenCart_icon.svg" />
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
+<img align="left" alt="vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <br/>
 
 #

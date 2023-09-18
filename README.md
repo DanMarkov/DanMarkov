@@ -1,12 +1,12 @@
-# :sparkles: Даниил Марков
-**`Веб-разработчик`**
+# :sparkles: Hi there, I'm DanMarkov
+**`WEB-DEVELOPER`**
 
 
-Я начинающий фулл-стак разработчик. Люблю решать проблемы и создавать интересные веб приложения. Мне интересна разработка во всех её аспектов. От планирования и размещения дизайна до решения жизненных вопросов с программированием.
+I'm a fullstack web-developer 
 
 ---
 
-### :toolbox: ЯП и инструменты, с которыми я практикуюсь и работаю
+### :toolbox: Instruments I use:
 
 <img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />

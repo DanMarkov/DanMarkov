@@ -4,6 +4,8 @@
 
 I'm a fullstack web-developer 
 
+I have a passion for building user-friendly web applications
+
 ---
 
 ### :toolbox: Instruments I use:
